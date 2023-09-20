@@ -1,0 +1,8 @@
+# Uso do Power BI como ferramenta de análise dos dados de evasão do Curso de Graduação em Nutrição de uma Instituição de Ensino Superior
+
+A evasão educacional é uma problemática que aflige tanto as Instituições de Ensino Superior (IES) pública como privada e gera impacto não apenas no repasse financeiro, mas também na gestão universitária. Este trabalho teve como objetivo a criação de dashboards interativos que possibilitassem a identificação do perfil dos alunos evasores, a conscientização da Instituição sobre o perfil destes alunos e o fornecimento de suporte às decisões estratégicas institucionais. Os dados foram extraídos da plataforma SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) e utilizando o Microsoft Power BI foram desenvolvidos sete dashboards interativos que serão disponibilizados para apreciação dos gestores da IES. Os dashboards permitem relacionar a evasão com os aspectos gênero, tipo de cota, tipo de saída, coeficiente de rendimento, reprovações e trancamentos de curso.
+
+**Observação**: O manuseio e a utilização dos dados acadêmicos foram autorizados pela IES mediante assinatura do termo de *autorização institucional* para uso de dados.
+A divulgação dos resultados foi realizada de forma a *não identificar os discentes* cujos dados foram pesquisados e também preservamos o *anonimato da instituição participante* onde os dados foram coletados.
+
+**Link para acesso aos dashboards desenvolvidos nesta pesquisa**: [https://app.powerbi.com/view?r=eyJrIjoiN2MwYmM3YjEtN2MxYy00MjA2LTk2NTktOGNjMjBlYTk2NTljIiwidCI6Ijg3M2E0OWMyLTE2NzgtNDliMy1hMmQxLWE0YjE5NmNiNDg0ZiJ9]
